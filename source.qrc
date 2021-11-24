@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons8-search-64.png</file>
+    <file>icons8-home-64.png</file>
+    <file>icons8-синхронизировать-50.png</file>
+  </qresource>
+</RCC>
